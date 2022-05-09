@@ -1,0 +1,45 @@
+body{
+    font-family: Roboto;
+}
+h1{
+    display:flex;
+    justify-content: center;
+}
+.scoreboard{
+    display:flex;
+    border-style: dotted;
+    justify-content: center;
+
+}
+.choices{
+    margin:20px 60px 20px 20px;
+    width:200px;
+    padding:20px;
+    border-style:dotted;
+    text-align: center;
+}
+.tally{
+    margin:20px;
+    padding: 20px;
+    border-style:dotted;
+}
+.box{
+    border-style: dotted;
+    display: flex;
+    justify-content: center;
+}
+.buttons{
+    display:flex;
+    justify-content: center;
+    margin: 20px;
+
+}
+.button{
+    padding:15px;
+    font-weight: 600;
+    font-size: 25px;;
+}
+input{
+    padding:5px;
+    margin:5px;
+}
